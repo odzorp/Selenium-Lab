@@ -5,19 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71681264-c5d2-4306-a9aa-21bb68edd2de" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CalenderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalenderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FormFieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FormFieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/JavaScriptDelayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/JavaScriptDelayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ModalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ModalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PopUps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PopUps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Sliders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Sliders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TablesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TablesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/fileUploadAndDownload.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/fileUploadAndDownload.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/windowsOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/windowsOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2hPMyeK0bgAJFKuQyjbQrc9Acyl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,14 +45,122 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.CalenderTest.executor": "Run",
+    "JUnit.FormFieldTest.executor": "Run",
+    "JUnit.FormFieldTest.formFieldTest.executor": "Debug",
+    "JUnit.FormFieldTestrefactored.executor": "Run",
+    "JUnit.FormfieldTest.executor": "Run",
+    "JUnit.FormfieldTest.formfield.executor": "Run",
+    "JUnit.Iframes.Iframe1.executor": "Run",
+    "JUnit.IframesTest.executor": "Run",
+    "JUnit.JavaScriptDelayTest.executor": "Run",
+    "JUnit.LoginTest.testSignUp.executor": "Run",
+    "JUnit.ModalTest.formModal.executor": "Run",
+    "JUnit.ModalTest.simpleModal.executor": "Run",
+    "JUnit.PopUps.executor": "Run",
+    "JUnit.Slider.sliderTest.executor": "Run",
+    "JUnit.Sliders.sliderTest.executor": "Run",
+    "JUnit.TablesTest.executor": "Run",
+    "JUnit.TablesTest.searchAndAssertCountries.executor": "Run",
+    "JUnit.TablesTest.selectDifferentEntries.executor": "Run",
+    "JUnit.TablesTest.tableAssertion.executor": "Run",
+    "JUnit.UntitledTest.executor": "Run",
+    "JUnit.fileUploadAndDownload.downloadFile.executor": "Run",
+    "JUnit.fileUploadAndDownload.uploadFile.executor": "Run",
+    "JUnit.refactorTest.executor": "Run",
+    "JUnit.windowsOperations.handleNewTab.executor": "Run",
+    "JUnit.windowsOperations.handleNewWindow.executor": "Run",
+    "JUnit.windowsOperations.replaceCurrentWindow.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.LoginTest.testSignUp.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/PhilipOdzor/IdeaProjects/NextGenerationAutomation/src/test/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/PhilipOdzor/IdeaProjects/NextGenerationAutomation/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PhilipOdzor\IdeaProjects\NextGenerationAutomation\src\test\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.IframesTest">
+    <configuration name="IframesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NextGenerationAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IframesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iframes.Iframe1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NextGenerationAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Iframes" />
+      <option name="METHOD_NAME" value="Iframe1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Slider.sliderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NextGenerationAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Slider" />
+      <option name="METHOD_NAME" value="sliderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sliders.sliderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NextGenerationAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Sliders" />
+      <option name="METHOD_NAME" value="sliderTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="windowsOperations.handleNewWindow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NextGenerationAutomation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="windowsOperations" />
+      <option name="METHOD_NAME" value="handleNewWindow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.IframesTest" />
+        <item itemvalue="JUnit.Iframes.Iframe1" />
+        <item itemvalue="JUnit.Sliders.sliderTest" />
+        <item itemvalue="JUnit.Slider.sliderTest" />
+        <item itemvalue="JUnit.windowsOperations.handleNewWindow" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,7 +177,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1717491517428</updated>
-      <workItem from="1717491518485" duration="2000" />
+      <workItem from="1717491518485" duration="13394000" />
+      <workItem from="1717578482335" duration="15294000" />
+      <workItem from="1717661721789" duration="30449000" />
+      <workItem from="1718699509543" duration="12977000" />
     </task>
     <servers />
   </component>
@@ -66,6 +194,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FormFieldTest.java</url>
+          <line>89</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
